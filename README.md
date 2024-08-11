@@ -1,2 +1,2 @@
-# biblioz
-Um gerenciador de biblioteca para fins didáticos.
+# Coming Soon
+Na primeira aula o README será modificado com mais sobre.
